@@ -1,0 +1,11 @@
+/*Style sheet for the base page*/
+a {
+    color: rgb(72, 255, 0);
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
